@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+sitemap: https://gmcbank.in/sitemap.xml
+Disallow: https://autobank.gmcbank.in/
