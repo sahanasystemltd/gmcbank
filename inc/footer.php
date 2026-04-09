@@ -16,14 +16,14 @@
                 </div>
 
             </div>
-            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12 pull-right">
+            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12 ">
 <!--                <div class="row">-->
 <!--                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 text-center">-->
 <!--                        <h3 class="newsletter-title">-->
 <!--                            <img src="https://www.webfreecounter.com/hit.php?id=grxnopn&nd=6&style=71" class="counter_css" alt="free counter">-->
 <!--                        </h3>-->
 <!--                    </div>-->
-<!--                    <div class="col-xl-7 col-lg-5 col-md-5 col-sm-12 col-12 pull-right">-->
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12 pull-right">
                         <div class="newsletter-form">
                             <!-- Newsletter Form -->
                             <form action=#" method="post">
@@ -36,7 +36,7 @@
                             </form>
                         </div>
                         <!-- /.Newsletter Form -->
-<!--                    </div>-->
+                    </div>
 <!--                </div>-->
                 <!-- /.col-lg-6 -->
             </div>
