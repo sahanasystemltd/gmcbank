@@ -51,7 +51,7 @@
                                 </thead>
                                 <tbody>
                                 <tr>
-                                    <td>SHRI PAVANBHAI SURESHBHAI CHAUDHARY</td>
+                                    <td>SMT. VARSHABEN DINESHBHAI PATEL</td>
                                     <td>Chairman</td>
                                 </tr>
                                 <tr>
